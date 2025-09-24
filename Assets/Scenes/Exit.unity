@@ -238,8 +238,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.6777959}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 24.31189, y: -6.606781}
-  m_SizeDelta: {x: -347.94452, y: -68.3808}
+  m_AnchoredPosition: {x: 36.17749, y: -0.15750122}
+  m_SizeDelta: {x: -315.8373, y: -42.1929}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &105564480
 MonoBehaviour:
@@ -263,19 +263,20 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 36
+    m_FontSize: 28
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 3
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'Thank you for playing. If you want to try the puzzle again, click the
-    Play Again button. If you want to quit, close your browser. '
+  m_Text: 'Good work, QQQQ.  Your score was  XXXX in yyyy seconds.  If you want to
+    try the puzzle again, click the Play Again button. If you want to quit, click
+    the quit button. '
 --- !u!222 &105564481
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -507,8 +508,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 0.23400001}
-  m_AnchoredPosition: {x: 2.6187744, y: 2.500061}
-  m_SizeDelta: {x: -611.1835, y: -41.6894}
+  m_AnchoredPosition: {x: -8.5486145, y: 2.500061}
+  m_SizeDelta: {x: -345.95, y: -41.6894}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &727746669
 MonoBehaviour:
@@ -733,8 +734,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0.23400001}
   m_AnchorMax: {x: 1, y: 0.5}
-  m_AnchoredPosition: {x: 2.6187744, y: -5.463089}
-  m_SizeDelta: {x: -611.1835, y: -64.6894}
+  m_AnchoredPosition: {x: -8.5488, y: -5.463089}
+  m_SizeDelta: {x: -345.951, y: -64.6894}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1016751658
 MonoBehaviour:

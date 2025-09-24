@@ -9,7 +9,7 @@ public class timeManager : MonoBehaviour
 {
     public Text timeLimitText;
     public Text remainingTimeText;
-    public float timeLimit = 30.0f;
+    public float timeLimit = 10.0f; // for faster testing
     public float timeRemaining;
 
     // Start is called before the first frame update
